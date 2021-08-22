@@ -9,3 +9,5 @@ Open in binder for online interaction without local installation:
 
 - figure only: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-luca/RSL_total_occupation_GEOLOGY2021/main?urlpath=voila/render/total_SL_occupation_code.ipynb)
 - notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-luca/RSL_total_occupation_GEOLOGY2021/HEAD?filepath=total_SL_occupation_code.ipynb)
+
+[![DOI](https://zenodo.org/badge/398848851.svg)](https://zenodo.org/badge/latestdoi/398848851)
